@@ -2,7 +2,7 @@
 Predicting 100m results using the PCA model- for beginners
 
 
-The following program shows a simple and initial experience of classification and prediction models in the Python sklearn package
+The following program shows a simple and initial test to the classification and prediction models in the Python sklearn package
 Later, an article will be added here in which I will try to explain the method and the mathematics behind it, 
 the advantages and disadvantages.
 
